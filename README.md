@@ -3,12 +3,12 @@ Currency Converter
 This is a simple currency converter web application built using HTML, CSS, and JavaScript. It allows users to convert an amount from one currency to another by selecting the source and target currencies from a dropdown list. The application fetches real-time exchange rates through an API and performs the conversion instantly.
 
 Features:
+1.Real-time Currency Conversion: The application fetches live currency exchange rates from an API, ensuring accurate and up-to-date conversions.
+2.User-Friendly Interface: The UI is simple and intuitive, allowing users to input an amount and select the desired currencies.
+3.Responsive Design: The design is responsive and works across various devices.
 
-Real-time Currency Conversion: The application fetches live currency exchange rates from an API, ensuring accurate and up-to-date conversions.
-User-Friendly Interface: The UI is simple and intuitive, allowing users to input an amount and select the desired currencies.
-Responsive Design: The design is responsive and works across various devices.
+
 Technologies Used:
-
 HTML
 CSS
 JavaScript
